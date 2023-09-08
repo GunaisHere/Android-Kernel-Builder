@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Thyme-KernelSU-Proton",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "Miatoll-KernelSU-Proton",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm6250.git",
+      "branch": "lineage-20",
+      "device": "miatoll",
+      "defconfig": "cuttlefish_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -45,11 +45,11 @@
   },
   {
     "kernelSource": {
-      "name": "Thyme-Google",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "miatoll-Lineage",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm6250.git",
+      "branch": "lineage-20",
+      "device": "miatoll",
+      "defconfig": "cuttlefish_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
