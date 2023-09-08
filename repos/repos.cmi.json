@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "miatoll-KernelSU-Proton-release",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm6250/tree/lineage-20",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm6250.git",
       "branch": "lineage-20",
       "device": "xiaomi",
       "defconfig": "cuttlefish_defconfig"
