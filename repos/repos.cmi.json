@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "bxsj-KernelSU-Proton-release",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "cmi-r-oss",
-      "device": "cmi",
-      "defconfig": "cmi_user_defconfig"
+      "name": "miatoll-KernelSU-Proton-release",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm6250/tree/lineage-20",
+      "branch": "lineage-20",
+      "device": "xiaomi",
+      "defconfig": "cuttlefish_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
